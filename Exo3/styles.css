@@ -1,0 +1,16 @@
+* {
+  margin: 0%;
+  box-sizing: border-box;
+  padding: 0%;
+}
+h1 {
+  color: yellow;
+}
+.blabla {
+  background-color: pink;
+  overflow: hidden;
+}
+.i-am-the-boss {
+    background-color: cyan;
+    font-size: 1.2rem;
+}
